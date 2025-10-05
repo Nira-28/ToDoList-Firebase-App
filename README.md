@@ -15,7 +15,7 @@ This app allows users to add, update, and delete tasks — helping them organize
 
 🧠 Tech Stack
 
-Language: Java / Kotlin
+Language: Java
 
 IDE: Android Studio
 
